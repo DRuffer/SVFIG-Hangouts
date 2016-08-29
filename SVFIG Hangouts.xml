@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<article xmlns="http://docbook.org/ns/docbook"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
+    <info>
+        <title>SVFIG Hangouts</title>
+        <author>
+            <orgname>Dennis Ruffer</orgname>
+            <email>daruffer@gmail.com</email>
+        </author>
+    </info>
+    <sect1>
+        <title>Fn-Win-Space</title>
+        <para>I had to find this for my Surface 4 computer, which isn't that same as my Surface 2
+            Pro.</para>
+        <figure>
+            <title>Fn-Win-Space</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="Fn-Win-Space.png" scalefit="1" width="100%"
+                        contentdepth="100%"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+    <sect1>
+        <title>Camera Setup</title>
+        <para>I use my Samsung Galaxy S5 Active mounted in Kickstarter version of the Beastgrip
+                (<link xlink:href="https://beastgrip.com/"/>). This allows me to add a zoom
+            lens,which I haven't been able to afford yet, but also gives nice mounting holes for a
+            tripod.</para>
+        <figure>
+            <title>Camera</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="Camera.jpg" contentdepth="100%" scalefit="1" width="100%"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+        <para>Using a tripod gets the camera angle up high enough to eliminate most of the paralax
+            when displaying the projector screen, but it also eliminates the reflexion of the lights
+            on the white board.</para>
+        <figure>
+            <title>Camera</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="Tripod.jpg" contentdepth="100%" scalefit="1" width="100%"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+    <sect1>
+        <title>Stanford Visitor</title>
+        <para>Choose the Stanford Visitor access point to avoid the 4 hour limit on the Stanford
+            access point.</para>
+        <figure>
+            <title>Stanford Visitor</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="Stanford%20Visitor.png" contentdepth="100%" scalefit="1"
+                        width="100%"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+    <sect1>
+        <title>Wireless Visitor</title>
+        <para>Accept the Terms and Conditions.</para>
+        <figure>
+            <title>Wireless Visitor</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="Wireless%20Visitor.png" contentdepth="100%" scalefit="1"
+                        width="100%"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+    <sect1>
+        <title>You're Connected</title>
+        <para>You should now be connected and you can close this window.</para>
+        <figure>
+            <title>You're Connected</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="You%27re%20Connected.png" contentdepth="100%" scalefit="1"
+                        width="100%"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+    <sect1>
+        <title>DroidCam Client</title>
+        <para>Start up the Droid Cam Client that will communicate with my Android phone's
+            camera.</para>
+        <figure>
+            <title>DroidCam Client</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="DroidCam%20Client.png" contentdepth="100%" scalefit="1"
+                        width="100%"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+    <sect1>
+        <title>DroidCam Client USB</title>
+        <para>Tell it to start up the wired USB connection, to avoid any additional wireless
+            traffic.</para>
+        <figure>
+            <title>DroidCam Client USB</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="DroidCam%20Client%20USB.png" contentdepth="100%"
+                        scalefit="1" width="100%"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+    <sect1>
+        <title>DroidCamX Pro Controls</title>
+        <para>This gives you the 1st preview of the camera's viewing angle. Using the X Pro version
+            give more resolution.</para>
+        <figure>
+            <title>DroidCamX Pro Controls</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="DroidCamX%20Pro%20Controls.png" contentdepth="100%"
+                        scalefit="1" width="100%"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+    <sect1>
+        <title>ManyCam.png</title>
+        <para>Start up the Many Cam app that will communicate with Google Hangouts. Originally, the
+            was required for compatibility with the Hangout, but it might be just an extra step, at
+            this point. Still, the extra camera controll and effects might also be useful, some
+            day.</para>
+        <figure>
+            <title>ManyCam.png</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="ManyCam.png" contentdepth="100%" scalefit="1" width="100%"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+    <sect1>
+        <title>ManyCam Controls</title>
+        <para>I have all of my cameras turned on, but "cut" over to the DroidCam, almost all of the
+            time.</para>
+        <figure>
+            <title>ManyCam Controls</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="ManyCam%20Controls.png" contentdepth="100%" scalefit="1"
+                        width="100%"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+    <sect1>
+        <title>plus.google.com</title>
+        <para>Open a web browser (I use Chrome) to Google plus.</para>
+        <figure>
+            <title>plus.google.com</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="plus.google.com.png" contentdepth="100%" scalefit="1"
+                        width="100%"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+    <sect1>
+        <title>Silicon Valley Forth Interest Group</title>
+        <para>Switch over to the SVFIG account, rather than my personal one, so the announcement
+            comes out from that organization.</para>
+        <figure>
+            <title>Silicon Valley Forth Interest Group</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="Silicon%20Valley%20Forth%20Interest%20Group.png"
+                        contentdepth="100%" scalefit="1" width="100%"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+    <sect1>
+        <title>SVFIG Google Plus</title>
+        <para>Pull down the Google+ Page tab.</para>
+        <figure>
+            <title>SVFIG Google Plus</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="SVFIG%20Google%20Plus.png" contentdepth="100%" scalefit="1"
+                        width="100%"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+    <sect1>
+        <title>Google Hangouts</title>
+        <para>And select Hangouts.</para>
+        <figure>
+            <title>Google Hangouts</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="Google%20Hangouts.png" contentdepth="100%" scalefit="1"
+                        width="100%"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+    <sect1>
+        <title>Hangouts On Air</title>
+        <para>Select the Hangouts On Air tab.</para>
+        <figure>
+            <title>Hangouts On Air</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="Hangouts%20On%20Air.png" contentdepth="100%" scalefit="1"
+                        width="100%"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+    <sect1>
+        <title>Hangouts On Air is moving</title>
+        <para>Noticed this little wrinkle and 1st impressions are not good. So far, the biggest
+            missing piece is guest speaker access, but we will figure this out and I will document
+            it as best that I can.</para>
+        <figure>
+            <title>Hangouts On Air is moving</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="Hangouts%20On%20Air%20is%20moving.png" contentdepth="100%"
+                        scalefit="1" width="100%"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+    <sect1>
+        <title>Create a Hangout On Air</title>
+        <para>Hit the Create a Hangout On Air button.</para>
+        <figure>
+            <title>Create a Hangout On Air</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="Create%20a%20Hangout%20On%20Air.png" contentdepth="100%"
+                        scalefit="1" width="100%"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+    <sect1>
+        <title>SVFIG 23Apr2016 Morning</title>
+        <para>Give the hangout an appropriate name, so people can find it on YouTube.</para>
+        <figure>
+            <title>SVFIG 23Apr2016 Morning</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="SVFIG%2023Apr2016%20Morning.png" contentdepth="100%"
+                        scalefit="1" width="100%"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+    <sect1>
+        <title>SVFIG 23Apr2016 Start</title>
+        <para>The online annoncement for the even is now created. Press the Start button.</para>
+        <figure>
+            <title>SVFIG 23Apr2016 Start</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="SVFIG%2023Apr2016%20Start.png" contentdepth="100%"
+                        scalefit="1" width="100%"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+    <sect1>
+        <title>Allow Webcam</title>
+        <para>If this is the 1st time on this machine, Windows may ask for permission to turn on the
+            webcam.</para>
+        <figure>
+            <title>Allow Webcam</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="Allow%20Webcam.png" contentdepth="100%" scalefit="1"
+                        width="100%"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+    <sect1>
+        <title>Invite Guests</title>
+        <para>You can invite guests now, or add them later. We typically, only do this for remote
+            speakers. In fact, As we are discovering now, I don't recommend doing it here at all.
+                <emphasis role="bold">TODO</emphasis> Add screen captureof inviting guests on the
+            Broadcast screen, where you can grab the URL link (e.g. <link
+                xlink:href="https://hangouts.google.com/call/6zjotf4g45erxdxwfhk6hglqwqe"/>) as text
+            and email it directly to the guest.</para>
+        <figure>
+            <title>Invite Guests</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="Invite%20Guests.png" contentdepth="100%" scalefit="1"
+                        width="100%"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+        <para>I finally managed to capture the dialog (from the Host side) where I can wait to chat
+            with the speaker and tell them how to join.</para>
+        <figure>
+            <title>Hangout Chat</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="Hangout%20Chat.png" contentdepth="100%" scalefit="1"
+                        width="100%"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+        <para>From the settings icon in the upper right, I can turn on "Joining by link" and send
+            the link by email.</para>
+        <figure>
+            <title>Hangout Settings</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="Hangout%20Settings.png" contentdepth="100%" scalefit="1"
+                        width="100%"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+    <sect1>
+        <title>Guest Speaker side</title>
+        <para>When you are on the plus.google.com page, you will see a notice in the upper right of
+            the page indicating that there is a new conversation. I was finally able to capture this
+            by using a 2nd computer and inviting myself to join.</para>
+        <figure>
+            <title>New conversation</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="New%20conversation.png" contentdepth="100%" scalefit="1"
+                        width="100%"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+        <para>Clicking on that message will open up another dialog where to can click the video icon
+            to join the Hangout.</para>
+        <figure>
+            <title>Click to join</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="Click%20to%20join.png" contentdepth="100%" scalefit="1"
+                        width="100%"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+    <sect1>
+        <title>Start Broadcast</title>
+        <para>If you are early, you can just wait here until it gets close to the time for the
+            hangout to start. However, be aware that it takes a little bit of time to actually get
+            the broadcast started, so don't cut it too short.</para>
+        <figure>
+            <title>Start Broadcast</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="Start%20Broadcast.png" contentdepth="100%" scalefit="1"
+                        width="100%"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+    <sect1>
+        <title>Camera Settings</title>
+        <para>I have to admit, that I chose wrong here, but fixed it later. You should select the
+            ManyCam Virtual Webcam, instead of the DroidCam Source 1 that is highlighted.</para>
+        <figure>
+            <title>Camera Settings</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="Camera%20Settings.png" contentdepth="100%" scalefit="1"
+                        width="100%"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+    <sect1>
+        <title>Camera Angle</title>
+        <para>Now you can adjust the camera angle. Typically, our focus is on the screen, but
+            sometimes, we do pan around. Note that, yes, the on-screen image is reversed. However,
+            it is correct within the YouTube feed, so don't panic.</para>
+        <figure>
+            <title>Camera Angle</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="Camera%20Angle.png" contentdepth="100%" scalefit="1"
+                        width="100%"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+    <sect1>
+        <title>YouTube Page</title>
+        <para>Down at the bottom right, select the Links button.</para>
+        <figure>
+            <title>YouTube Page</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="YouTube%20Page.png" contentdepth="100%" scalefit="1"
+                        width="100%"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+    <sect1>
+        <title>YouTube Page Selected</title>
+        <para>Copy the YouTube Page for the email announcement.</para>
+        <figure>
+            <title>YouTube Page Selected</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="YouTube%20Page%20Selected.png" contentdepth="100%"
+                        scalefit="1" width="100%"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+    <sect1>
+        <title>SVFIG Email</title>
+        <para>Send email with the pertenant information to the mailing list.</para>
+        <figure>
+            <title>SVFIG Email</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="SVFIG%20Email.png" contentdepth="100%" scalefit="1"
+                        width="100%"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+    <sect1>
+        <title>ManyCam Zoom</title>
+        <para>Both DroidCam and ManyCam can control zoom, but I use ManyCam for this.</para>
+        <figure>
+            <title>ManyCam Zoom</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="ManyCam%20Zoom.png" contentdepth="100%" scalefit="1"
+                        width="100%"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+    <sect1>
+        <title>ManyCam 1080p</title>
+        <para>The last setting is merely to get the broadcast up to scale.</para>
+        <figure>
+            <title>ManyCam 1080p</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="ManyCam%201080p.png" contentdepth="100%" scalefit="1"
+                        width="100%"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+</article>

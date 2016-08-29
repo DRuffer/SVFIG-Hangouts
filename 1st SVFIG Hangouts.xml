@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<article xmlns="http://docbook.org/ns/docbook"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
+    <info>
+        <title>SVFIG Hangouts</title>
+        <author>
+            <orgname/>
+            <address>Dennis Ruffer</address>
+            <email/>
+            <email>daruffer@gmail.com</email>
+        </author>
+    </info>
+    <sect1>
+        <title/>
+        <para/>
+        <para>I had to find this for my Surface 4 computer, which isn't that same as my Surface 2
+            Pro.</para>
+        <figure pgwide="0">
+            <title>01 Fn-Win-Space</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="01%20Fn-Win-Space.png" scalefit="1"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+    <sect1>
+        <title/>
+        <para/>
+        <para>Choose the Stanford Visitor access point to avoid the 4 hour limit on the Stanford
+            access point.</para>
+        <figure>
+            <title>02 Stanford Visitor</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="02%20Stanford%20Visitor.png"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+    <sect1>
+        <title/>
+        <para/>
+        <para>Accept the Terms and Conditions.</para>
+        <figure>
+            <title>03 Wireless Visitor</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="03%20Wireless%20Visitor.png"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+    <sect1>
+        <title/>
+        <para/>
+        <para>You should now be connected and you can close this window.</para>
+        <figure>
+            <title>04 You're Connected</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="04%20You%27re%20Connected.png"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+    <sect1>
+        <title/>
+        <para/>
+        <para>Start up the Droid Cam Client that will communicate with my Android phone's
+            camera.</para>
+        <figure>
+            <title>05 DroidCam Client</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="05%20DroidCam%20Client.png"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+    <sect1>
+        <title/>
+        <para/>
+        <para>Tell it to start up the wired USB connection, to avoid any additional wireless
+            traffic.</para>
+        <figure>
+            <title>06 DroidCam Client USB</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="06%20DroidCam%20Client%20USB.png"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+    <sect1>
+        <title/>
+        <para/>
+        <para>This gives you the 1st preview of the camera's viewing angle. Using the X Pro version
+            give more resolution.</para>
+        <figure>
+            <title>07 DroidCamX Pro Controls</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="07%20DroidCamX%20Pro%20Controls.png"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+    <sect1>
+        <title/>
+        <para/>
+        <para>Start up the Many Cam app that will communicate with Google Hangouts. Originally, the
+            was required for compatibility with the Hangout, but it might be just an extra step, at
+            this point. Still, the extra camera controll and effects might also be useful, some
+            day.</para>
+        <figure>
+            <title>08%20ManyCam.png</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="08%20ManyCam.png"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+    <sect1>
+        <title/>
+        <para/>
+        <para>I have all of my cameras turned on, but "cut" over to the DroidCam, almost all of the
+            time.</para>
+        <figure>
+            <title>09 ManyCam Controls</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="09%20ManyCam%20Controls.png"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+    <sect1>
+        <title/>
+        <para/>
+        <para>Open a web browser (I use Chrome) to Google plus.</para>
+        <figure>
+            <title>10 plus.google.com</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="10%20plus.google.com.png"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+    <sect1>
+        <title/>
+        <para/>
+        <para>Switch over to the SVFIG account, rather than my personal one, so the announcement
+            comes out from that organization.</para>
+        <figure>
+            <title>11 Silicon Valley Forth Interest Group</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="11%20Silicon%20Valley%20Forth%20Interest%20Group.png"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+    <sect1>
+        <title/>
+        <para/>
+        <para>Pull down the Google+ Page tab.</para>
+        <figure>
+            <title>12 SVFIG Google Plus</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="12%20SVFIG%20Google%20Plus.png"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+    <sect1>
+        <title/>
+        <para/>
+        <para>And select Hangouts.</para>
+        <figure>
+            <title>13 Google Hangouts</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="13%20Google%20Hangouts.png"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+    <sect1>
+        <title/>
+        <para/>
+        <para>Select the Hangouts On Air tab.</para>
+        <figure>
+            <title>14 Hangouts On Air</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="14%20Hangouts%20On%20Air.png"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+    <sect1>
+        <title/>
+        <para/>
+        <para>Hit the Create a Hangout On Air button.</para>
+        <figure>
+            <title>15 Create a Hangout On Air</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="15%20Create%20a%20Hangout%20On%20Air.png"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+    <sect1>
+        <title/>
+        <para/>
+        <para>Give the hangout an appropriate name, so people can find it on YouTube.</para>
+        <figure>
+            <title>16 SVFIG 23Apr2016 Morning</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="16%20SVFIG%2023Apr2016%20Morning.png"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+    <sect1>
+        <title/>
+        <para/>
+        <para>The online annoncement for the even is now created. Press the Start button.</para>
+        <figure>
+            <title>17 SVFIG 23Apr2016 Start</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="17%20SVFIG%2023Apr2016%20Start.png"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+    <sect1>
+        <title/>
+        <para/>
+        <para>If this is the 1st time on this machine, Windows may ask for permission to turn on the
+            webcam.</para>
+        <figure>
+            <title>18 Allow Webcam</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="18%20Allow%20Webcam.png"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+    <sect1>
+        <title/>
+        <para/>
+        <para>You can invite guests now, or add them later. We typically, only do this for remote
+            speakers.</para>
+        <figure>
+            <title>19 Invite Guests</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="19%20Invite%20Guests.png"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+    <sect1>
+        <title/>
+        <para/>
+        <para>If you are early, you can just wait here until it gets close to the time for the
+            hangout to start. However, be aware that it takes a little bit of time to actually get
+            the broadcast started, so don't cut it too short.</para>
+        <figure>
+            <title>20 Start Broadcast</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="20%20Start%20Broadcast.png"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+    <sect1>
+        <title/>
+        <para/>
+        <para>I have to admit, that I chose wrong here, but fixed it later. You should select the
+            ManyCam Virtual Webcam, instead of the DroidCam Source 1 that is highlighted.</para>
+        <figure>
+            <title>21 Camera Settings</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="21%20Camera%20Settings.png"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+    <sect1>
+        <title/>
+        <para/>
+        <para>Now you can adjust the camera angle. Typically, our focus is on the screen, but
+            sometimes, we do pan around.</para>
+        <figure>
+            <title>22 Camera Angle</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="22%20Camera%20Angle.png"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+    <sect1>
+        <title/>
+        <para/>
+        <para>Down at the bottom right, select the Links button.</para>
+        <figure>
+            <title>23 YouTube Page</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="23%20YouTube%20Page.png"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+    <sect1>
+        <title/>
+        <para/>
+        <para>Copy the YouTube Page for the email announcement.</para>
+        <figure>
+            <title>24 YouTube Page Selected</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="24%20YouTube%20Page%20Selected.png"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+    <sect1>
+        <title/>
+        <para/>
+        <para>I should have figured out how to eliminate this section, but didn't.</para>
+    </sect1>
+    <sect1>
+        <title/>
+        <para/>
+        <para>Send email with the pertenant information to the mailing list.</para>
+        <figure>
+            <title>26 SVFIG Email</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="26%20SVFIG%20Email.png"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+    <sect1>
+        <title/>
+        <para/>
+        <para>Both DroidCam and ManyCam can control zoom, but I use ManyCam for this.</para>
+        <figure>
+            <title>27 ManyCam Zoom</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="27%20ManyCam%20Zoom.png"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+    <sect1>
+        <title/>
+        <para/>
+        <para>Yet another duplicate.</para>
+    </sect1>
+    <sect1>
+        <title/>
+        <para/>
+        <para>Even worse, two blank sections.</para>
+    </sect1>
+    <sect1>
+        <title/>
+        <para/>
+        <para>The last setting is merely to get the broadcast up to scale.</para>
+        <figure>
+            <title>30 ManyCam 1080p</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="30%20ManyCam%201080p.png"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+    </sect1>
+</article>
