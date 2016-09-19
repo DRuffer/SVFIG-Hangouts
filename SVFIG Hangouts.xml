@@ -29,7 +29,9 @@
         <para>I use my Samsung Galaxy S5 Active mounted in Kickstarter version of the Beastgrip
                 (<link xlink:href="https://beastgrip.com/"/>). This allows me to add a zoom
             lens,which I haven't been able to afford yet, but also gives nice mounting holes for a
-            tripod.</para>
+            tripod. Here's an interesting alternative for a camera: <link
+                xlink:href="http://www.motorola.com/us/products/moto-mods/hasselblad-true-zoom"
+            /></para>
         <figure>
             <title>Camera</title>
             <mediaobject>
@@ -241,6 +243,149 @@
                 </imageobject>
             </mediaobject>
         </figure>
+        <sect2>
+            <title>YouTube Live</title>
+            <para>So, what is this new/old thing? We start here: <link
+                    xlink:href="https://www.youtube.com/my_live_events"/> in the Creator Studio. I
+                have already have a whole bunch of Live Streaming Events (Live Now, Upcoming and
+                Completed), which I can do various Actions to, but we'll have to study that further,
+                someday.</para>
+            <figure>
+                <title>Creator Studio</title>
+                <mediaobject>
+                    <imageobject>
+                        <imagedata fileref="Creator%20Studio.png" contentdepth="100%" scalefit="1"
+                            width="100%"/>
+                    </imageobject>
+                </mediaobject>
+            </figure>
+        </sect2>
+        <sect2>
+            <title>Live Dashboard</title>
+            <para>This is where most of the activity exists: <link
+                    xlink:href="https://www.youtube.com/live_dashboard"/>. Again, there's a lot to
+                discover here, but we are trying to keep this moving, and this is pointing to an old
+                Live Stream that I setup when I 1st learned of this change.</para>
+            <figure>
+                <title>Live Dashboard</title>
+                <mediaobject>
+                    <imageobject>
+                        <imagedata fileref="Live%20Dashboard.png" contentdepth="100%" scalefit="1"
+                            width="100%"/>
+                    </imageobject>
+                </mediaobject>
+            </figure>
+        </sect2>
+        <sect2>
+            <title>OBS Studio</title>
+            <para>If you can read it, the previous screen mentions that you need to "Set up encoding
+                software" with a "Guide to Encoding" link <link
+                    xlink:href="https://support.google.com/youtube/answer/2907883?hl=en"/>. There,
+                under "Other Encoders", I found the link to "Open Broadcaster Software" <link
+                    xlink:href="https://obsproject.com/"/>, a "free and open source software for
+                video recording and live streaming". I can setup the "Video Capture Device" as the
+                "ManyCam Virtual Webcam" and continue using that approach, or figure out how to
+                control multiple Scenes and Devices in OBS Studio. For the moment, it doesn't matter
+                much </para>
+            <figure>
+                <title>OBS Studio (64-bit)</title>
+                <mediaobject>
+                    <imageobject>
+                        <imagedata fileref="OBS%20Studio%20(64-bit).png" contentdepth="100%"
+                            scalefit="1" width="100%"/>
+                    </imageobject>
+                </mediaobject>
+            </figure>
+            <figure>
+                <title>OBS Studio</title>
+                <mediaobject>
+                    <imageobject>
+                        <imagedata fileref="OBS%20Studio.png" contentdepth="100%" scalefit="1"
+                            width="100%"/>
+                    </imageobject>
+                </mediaobject>
+            </figure>
+        </sect2>
+        <sect2>
+            <title>OBS Settings</title>
+            <para>There are a lot of things I have not figured out yet, but the one thing that is
+                required, is to set the <emphasis role="bold">Stream key</emphasis> to the <emphasis
+                    role="bold">Stream name/key</emphasis> on the Live Dashboard above.</para>
+            <figure>
+                <title>OBS Settings</title>
+                <mediaobject>
+                    <imageobject>
+                        <imagedata fileref="OBS%20Settings.png" contentdepth="100%" scalefit="1"
+                            width="100%"/>
+                    </imageobject>
+                </mediaobject>
+            </figure>
+        </sect2>
+        <sect2>
+            <title>Start Streaming</title>
+            <para>When you hit the "Start Streaming" in OBS then things start happening over on the
+                Live Dashboard. The "Stream Health" is not very good, as the message says: "YouTube
+                is not receiving enough video to maintain smooth streaming. As such, viewers will
+                experience buffering. Please check the video resolution. The current resolution is
+                (1092x728), which is not optimal." I'm also seeing a very significant delay, which
+                is going to be another wrinkle, but again, moving on to see what's next. We can
+                optimize later. At least I can see myself, sort of live, on the "watch page" and I
+                can share that URL multiple ways.</para>
+            <figure>
+                <title>Start Streaming</title>
+                <mediaobject>
+                    <imageobject>
+                        <imagedata fileref="Start%20Streaming.png" contentdepth="100%" scalefit="1"
+                            width="100%"/>
+                    </imageobject>
+                </mediaobject>
+            </figure>
+        </sect2>
+        <sect2>
+            <title>Screen Sharing</title>
+            <para>This ends up requiring another Scene in OBS with Sources set to Window Capture
+                setup to whichever window you want. I chose the Skype window that I just opened. I
+                can Transform it to "Fit to screen" and then click Transition. The delay means you
+                have to just trust that this will make it out Live, but you don't get instant
+                gratification here.</para>
+            <figure>
+                <title>Window Capture</title>
+                <mediaobject>
+                    <imageobject>
+                        <imagedata fileref="Window%20Capture.png" contentdepth="100%" scalefit="1"
+                            width="100%"/>
+                    </imageobject>
+                </mediaobject>
+            </figure>
+        </sect2>
+        <sect2>
+            <title>Skype Screen Sharing</title>
+            <para>I found a website that tells how in Skype for Windows Desktop <link
+                    xlink:href="https://support.skype.com/en/faq/FA10215/how-do-i-share-my-screen-in-skype-for-windows-desktop"
+                />, but then also found it in Skype itself here</para>
+            <figure>
+                <title>Skype Screen Share</title>
+                <mediaobject>
+                    <imageobject>
+                        <imagedata contentdepth="100%" scalefit="1" width="100%"
+                            fileref="Skype%20Screen%20Share.png"/>
+                    </imageobject>
+                </mediaobject>
+            </figure>
+        </sect2>
+        <sect2>
+            <title>Skype Share Screen</title>
+            <para>This is the window you get when that menu item is selected.</para>
+            <figure>
+                <title>Skype Share Screen</title>
+                <mediaobject>
+                    <imageobject>
+                        <imagedata contentdepth="100%" scalefit="1" width="100%"
+                            fileref="Skype%20Share%20Screen.png"/>
+                    </imageobject>
+                </mediaobject>
+            </figure>
+        </sect2>
     </sect1>
     <sect1>
         <title>Create a Hangout On Air</title>
