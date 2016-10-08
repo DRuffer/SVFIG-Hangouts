@@ -388,6 +388,61 @@
         </sect2>
     </sect1>
     <sect1>
+        <title>Create a Hangout</title>
+        <para>Google Hangouts did not go away, but are still available at <link
+                xlink:href="https://hangouts.google.com/"/>.</para>
+        <figure>
+            <title>New Google Hangouts</title>
+            <mediaobject>
+                <imageobject>
+                    <imagedata  contentdepth="100%" scalefit="1" width="100%"
+                        fileref="Google%20Hangouts%20New.png"/>
+                </imageobject>
+            </mediaobject>
+        </figure>
+        <sect2>
+            <title>You're in a video call</title>
+            <para>This is the window you get when you are invited into a Hangout.</para>
+            <figure>
+                <title>You're in a video call</title>
+                <mediaobject>
+                    <imageobject>
+                        <imagedata contentdepth="100%" scalefit="1" width="100%"
+                            fileref="Video%20Call.png"/>
+                    </imageobject>
+                </mediaobject>
+            </figure>
+        </sect2>
+        <sect2>
+            <title>Accept the call</title>
+            <para>Click the camera icon to join the video call.</para>
+            <figure>
+                <title>Accept the call</title>
+                <mediaobject>
+                    <imageobject>
+                        <imagedata contentdepth="100%" scalefit="1" width="100%"
+                            fileref="Accept%20Call.png"/>
+                    </imageobject>
+                </mediaobject>
+            </figure>
+        </sect2>
+        <sect2>
+            <title>Leave the Conversation</title>
+            <para>When you want to leave the conversation, you can click on the headset icon
+                within the conversation, or hit the 3 dots in the previous image and Leave
+                in the pull down menu. You then get this dialog.</para>
+            <figure>
+                <title>Leave Conversation</title>
+                <mediaobject>
+                    <imageobject>
+                        <imagedata contentdepth="100%" scalefit="1" width="100%"
+                            fileref="Leave%20Conversation.png"/>
+                    </imageobject>
+                </mediaobject>
+            </figure>
+        </sect2>
+    </sect1>
+    <sect1>
         <title>Create a Hangout On Air</title>
         <para>Hit the Create a Hangout On Air button.</para>
         <figure>
