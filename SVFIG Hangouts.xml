@@ -443,7 +443,7 @@
         </sect2>
     </sect1>
     <sect1>
-        <title>Create a Hangout On Air</title>
+        <title>Create a Hangout On Air (obsolete)</title>
         <para>Hit the Create a Hangout On Air button.</para>
         <figure>
             <title>Create a Hangout On Air</title>
@@ -454,123 +454,162 @@
                 </imageobject>
             </mediaobject>
         </figure>
-    </sect1>
-    <sect1>
-        <title>SVFIG 23Apr2016 Morning</title>
-        <para>Give the hangout an appropriate name, so people can find it on YouTube.</para>
-        <figure>
+        <sect2>
             <title>SVFIG 23Apr2016 Morning</title>
-            <mediaobject>
-                <imageobject>
-                    <imagedata fileref="SVFIG%2023Apr2016%20Morning.png" contentdepth="100%"
-                        scalefit="1" width="100%"/>
-                </imageobject>
-            </mediaobject>
-        </figure>
-    </sect1>
-    <sect1>
-        <title>SVFIG 23Apr2016 Start</title>
-        <para>The online annoncement for the even is now created. Press the Start button.</para>
-        <figure>
+            <para>Give the hangout an appropriate name, so people can find it on YouTube.</para>
+            <figure>
+                <title>SVFIG 23Apr2016 Morning</title>
+                <mediaobject>
+                    <imageobject>
+                        <imagedata fileref="SVFIG%2023Apr2016%20Morning.png" contentdepth="100%"
+                            scalefit="1" width="100%"/>
+                    </imageobject>
+                </mediaobject>
+            </figure>
+        </sect2>
+        <sect2>
             <title>SVFIG 23Apr2016 Start</title>
-            <mediaobject>
-                <imageobject>
-                    <imagedata fileref="SVFIG%2023Apr2016%20Start.png" contentdepth="100%"
-                        scalefit="1" width="100%"/>
-                </imageobject>
-            </mediaobject>
-        </figure>
-    </sect1>
-    <sect1>
-        <title>Allow Webcam</title>
-        <para>If this is the 1st time on this machine, Windows may ask for permission to turn on the
-            webcam.</para>
-        <figure>
+            <para>The online annoncement for the event is now created. Press the Start button.</para>
+            <figure>
+                <title>SVFIG 23Apr2016 Start</title>
+                <mediaobject>
+                    <imageobject>
+                        <imagedata fileref="SVFIG%2023Apr2016%20Start.png" contentdepth="100%"
+                            scalefit="1" width="100%"/>
+                    </imageobject>
+                </mediaobject>
+            </figure>
+        </sect2>
+        <sect2>
             <title>Allow Webcam</title>
-            <mediaobject>
-                <imageobject>
-                    <imagedata fileref="Allow%20Webcam.png" contentdepth="100%" scalefit="1"
-                        width="100%"/>
-                </imageobject>
-            </mediaobject>
-        </figure>
-    </sect1>
-    <sect1>
-        <title>Invite Guests</title>
-        <para>You can invite guests now, or add them later. We typically, only do this for remote
-            speakers. In fact, As we are discovering now, I don't recommend doing it here at all.
-                <emphasis role="bold">TODO</emphasis> Add screen captureof inviting guests on the
-            Broadcast screen, where you can grab the URL link (e.g. <link
-                xlink:href="https://hangouts.google.com/call/6zjotf4g45erxdxwfhk6hglqwqe"/>) as text
-            and email it directly to the guest.</para>
-        <figure>
+            <para>If this is the 1st time on this machine, Windows may ask for permission to turn on the
+                webcam.</para>
+            <figure>
+                <title>Allow Webcam</title>
+                <mediaobject>
+                    <imageobject>
+                        <imagedata fileref="Allow%20Webcam.png" contentdepth="100%" scalefit="1"
+                            width="100%"/>
+                    </imageobject>
+                </mediaobject>
+            </figure>
+        </sect2>
+        <sect2>
             <title>Invite Guests</title>
-            <mediaobject>
-                <imageobject>
-                    <imagedata fileref="Invite%20Guests.png" contentdepth="100%" scalefit="1"
-                        width="100%"/>
-                </imageobject>
-            </mediaobject>
-        </figure>
-        <para>I finally managed to capture the dialog (from the Host side) where I can wait to chat
-            with the speaker and tell them how to join.</para>
-        <figure>
-            <title>Hangout Chat</title>
-            <mediaobject>
-                <imageobject>
-                    <imagedata fileref="Hangout%20Chat.png" contentdepth="100%" scalefit="1"
-                        width="100%"/>
-                </imageobject>
-            </mediaobject>
-        </figure>
-        <para>From the settings icon in the upper right, I can turn on "Joining by link" and send
-            the link by email.</para>
-        <figure>
-            <title>Hangout Settings</title>
-            <mediaobject>
-                <imageobject>
-                    <imagedata fileref="Hangout%20Settings.png" contentdepth="100%" scalefit="1"
-                        width="100%"/>
-                </imageobject>
-            </mediaobject>
-        </figure>
-    </sect1>
-    <sect1>
-        <title>Guest Speaker side</title>
-        <para>When you are on the plus.google.com page, you will see a notice in the upper right of
-            the page indicating that there is a new conversation. I was finally able to capture this
-            by using a 2nd computer and inviting myself to join.</para>
-        <figure>
-            <title>New conversation</title>
-            <mediaobject>
-                <imageobject>
-                    <imagedata fileref="New%20conversation.png" contentdepth="100%" scalefit="1"
-                        width="100%"/>
-                </imageobject>
-            </mediaobject>
-        </figure>
-        <para>Clicking on that message will open up another dialog where to can click the video icon
-            to join the Hangout.</para>
-        <figure>
-            <title>Click to join</title>
-            <mediaobject>
-                <imageobject>
-                    <imagedata fileref="Click%20to%20join.png" contentdepth="100%" scalefit="1"
-                        width="100%"/>
-                </imageobject>
-            </mediaobject>
-        </figure>
-    </sect1>
-    <sect1>
-        <title>Start Broadcast</title>
-        <para>If you are early, you can just wait here until it gets close to the time for the
-            hangout to start. However, be aware that it takes a little bit of time to actually get
-            the broadcast started, so don't cut it too short.</para>
-        <figure>
+            <para>You can invite guests now, or add them later. We typically, only do this for remote
+                speakers. In fact, As we are discovering now, I don't recommend doing it here at all.
+                <emphasis role="bold">TODO</emphasis> Add screen captureof inviting guests on the
+                Broadcast screen, where you can grab the URL link (e.g. <link
+                    xlink:href="https://hangouts.google.com/call/6zjotf4g45erxdxwfhk6hglqwqe"/>) as text
+                and email it directly to the guest.</para>
+            <figure>
+                <title>Invite Guests</title>
+                <mediaobject>
+                    <imageobject>
+                        <imagedata fileref="Invite%20Guests.png" contentdepth="100%" scalefit="1"
+                            width="100%"/>
+                    </imageobject>
+                </mediaobject>
+            </figure>
+            <para>I finally managed to capture the dialog (from the Host side) where I can wait to chat
+                with the speaker and tell them how to join.</para>
+            <figure>
+                <title>Hangout Chat</title>
+                <mediaobject>
+                    <imageobject>
+                        <imagedata fileref="Hangout%20Chat.png" contentdepth="100%" scalefit="1"
+                            width="100%"/>
+                    </imageobject>
+                </mediaobject>
+            </figure>
+            <para>From the settings icon in the upper right, I can turn on "Joining by link" and send
+                the link by email.</para>
+            <figure>
+                <title>Hangout Settings</title>
+                <mediaobject>
+                    <imageobject>
+                        <imagedata fileref="Hangout%20Settings.png" contentdepth="100%" scalefit="1"
+                            width="100%"/>
+                    </imageobject>
+                </mediaobject>
+            </figure>
+        </sect2>
+        <sect2>
+            <title>Guest Speaker side</title>
+            <para>When you are on the plus.google.com page, you will see a notice in the upper right of
+                the page indicating that there is a new conversation. I was finally able to capture this
+                by using a 2nd computer and inviting myself to join.</para>
+            <figure>
+                <title>New conversation</title>
+                <mediaobject>
+                    <imageobject>
+                        <imagedata fileref="New%20conversation.png" contentdepth="100%" scalefit="1"
+                            width="100%"/>
+                    </imageobject>
+                </mediaobject>
+            </figure>
+            <para>Clicking on that message will open up another dialog where to can click the video icon
+                to join the Hangout.</para>
+            <figure>
+                <title>Click to join</title>
+                <mediaobject>
+                    <imageobject>
+                        <imagedata fileref="Click%20to%20join.png" contentdepth="100%" scalefit="1"
+                            width="100%"/>
+                    </imageobject>
+                </mediaobject>
+            </figure>
+        </sect2>
+        <sect2>
             <title>Start Broadcast</title>
+            <para>If you are early, you can just wait here until it gets close to the time for the
+                hangout to start. However, be aware that it takes a little bit of time to actually get
+                the broadcast started, so don't cut it too short.</para>
+            <figure>
+                <title>Start Broadcast</title>
+                <mediaobject>
+                    <imageobject>
+                        <imagedata fileref="Start%20Broadcast.png" contentdepth="100%" scalefit="1"
+                            width="100%"/>
+                    </imageobject>
+                </mediaobject>
+            </figure>
+        </sect2>
+        <sect2>
+            <title>YouTube Page</title>
+            <para>Down at the bottom right, select the Links button.</para>
+            <figure>
+                <title>YouTube Page</title>
+                <mediaobject>
+                    <imageobject>
+                        <imagedata fileref="YouTube%20Page.png" contentdepth="100%" scalefit="1"
+                            width="100%"/>
+                    </imageobject>
+                </mediaobject>
+            </figure>
+        </sect2>
+        <sect2>
+            <title>YouTube Page Selected</title>
+            <para>Copy the YouTube Page for the email announcement.</para>
+            <figure>
+                <title>YouTube Page Selected</title>
+                <mediaobject>
+                    <imageobject>
+                        <imagedata fileref="YouTube%20Page%20Selected.png" contentdepth="100%"
+                            scalefit="1" width="100%"/>
+                    </imageobject>
+                </mediaobject>
+            </figure>
+        </sect2>
+    </sect1>
+    <sect1>
+        <title>SVFIG Email</title>
+        <para>Send email with the pertenant information to the mailing list.</para>
+        <figure>
+            <title>SVFIG Email</title>
             <mediaobject>
                 <imageobject>
-                    <imagedata fileref="Start%20Broadcast.png" contentdepth="100%" scalefit="1"
+                    <imagedata fileref="SVFIG%20Email.png" contentdepth="100%" scalefit="1"
                         width="100%"/>
                 </imageobject>
             </mediaobject>
@@ -600,45 +639,6 @@
             <mediaobject>
                 <imageobject>
                     <imagedata fileref="Camera%20Angle.png" contentdepth="100%" scalefit="1"
-                        width="100%"/>
-                </imageobject>
-            </mediaobject>
-        </figure>
-    </sect1>
-    <sect1>
-        <title>YouTube Page</title>
-        <para>Down at the bottom right, select the Links button.</para>
-        <figure>
-            <title>YouTube Page</title>
-            <mediaobject>
-                <imageobject>
-                    <imagedata fileref="YouTube%20Page.png" contentdepth="100%" scalefit="1"
-                        width="100%"/>
-                </imageobject>
-            </mediaobject>
-        </figure>
-    </sect1>
-    <sect1>
-        <title>YouTube Page Selected</title>
-        <para>Copy the YouTube Page for the email announcement.</para>
-        <figure>
-            <title>YouTube Page Selected</title>
-            <mediaobject>
-                <imageobject>
-                    <imagedata fileref="YouTube%20Page%20Selected.png" contentdepth="100%"
-                        scalefit="1" width="100%"/>
-                </imageobject>
-            </mediaobject>
-        </figure>
-    </sect1>
-    <sect1>
-        <title>SVFIG Email</title>
-        <para>Send email with the pertenant information to the mailing list.</para>
-        <figure>
-            <title>SVFIG Email</title>
-            <mediaobject>
-                <imageobject>
-                    <imagedata fileref="SVFIG%20Email.png" contentdepth="100%" scalefit="1"
                         width="100%"/>
                 </imageobject>
             </mediaobject>
