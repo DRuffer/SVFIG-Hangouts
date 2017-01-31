@@ -55,7 +55,8 @@
     <sect1>
         <title>Stanford Visitor</title>
         <para>Choose the Stanford Visitor access point to avoid the 4 hour limit on the Stanford
-            access point.</para>
+            access point. However, Dave Jaffe says that the 4 hour timeout can be forced to
+            re-register at: <link xlink:href="http://snsr.sunet.stanford.edu/snsr/intro"/>.</para>
         <figure>
             <title>Stanford Visitor</title>
             <mediaobject>
