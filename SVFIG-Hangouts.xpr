@@ -2,7 +2,11 @@
 <project version="18.1">
     <meta>
         <filters directoryPatterns="" filePatterns="SVFIG-Hangouts.xpr" positiveFilePatterns="" showHiddenFiles="false"/>
-        <options/>
+        <options>
+            <serialized version="18.1" xml:space="preserve">
+                <map/>
+            </serialized>
+        </options>
     </meta>
     <projectTree name="SVFIG-Hangouts.xpr">
         <folder path="."/>

@@ -358,6 +358,11 @@
                     </imageobject>
                 </mediaobject>
             </figure>
+            <para>I've mostly been sharing the entire Windows Desktop, even though that requires
+                that the computer be dedicated. Then I have experimented with multiple guest sharing
+                options; Skype to Skype or to phone (when bandwidth is an issue for the speaker),
+                Google Hangouts, and <link xlink:href="https://appear.in/"/>. The choices are
+                endless and the following describes some of the alternatives.</para>
         </sect2>
         <sect2>
             <title>Skype Screen Sharing</title>
