@@ -53,6 +53,22 @@
         </figure>
     </sect1>
     <sect1>
+        <title>Stanford Projector</title>
+        <para>Panasonic PT-DW6300, the specified resolution is "WXGA 1280 X 800" <link
+                xlink:href="https://www.projectorcentral.com/Panasonic-PT-DW6300US.htm"/></para>
+        <para>Video Modes:720p, 1080i, 1080p/60, 1080p/24, 1080p/25, 1080p/30, 1080p/50, 1035i,
+            525i, 525p, 576i, 576p, 625i, 625p, 1125i, 480p, 480i</para>
+        <para>The projector, as it turns out, has a little HDMI to twisted pair(DTP) adapter box and
+            that's what the HDMI wall plug is talking to. There also appears to be a HDMI to DVI or
+            VGA transition taking place.</para>
+        <para>When Kevin plugged his laptop into the HDMI, the laptop display resolution was set to
+            1280 x 800 with no options.</para>
+        <para>When connecting to the VGA wallplug, the EDID that his laptop saw comes up as "DW6300"
+            or something like that, presumably straight from the projector. When connecting to the
+            HDMI wall plug, his laptop reports "Extron" from the DTP-HDMI transmitter/receiver or
+            the HDMI-DVI adapter.</para>
+    </sect1>
+    <sect1>
         <title>Stanford Visitor</title>
         <para>Choose the Stanford Visitor access point to avoid the 4 hour limit on the Stanford
             access point. However, Dave Jaffe says that the 4 hour timeout can be forced to
@@ -335,7 +351,13 @@
                 Live Dashboard. The "Stream Health" is not very good, as the message says: "YouTube
                 is not receiving enough video to maintain smooth streaming. As such, viewers will
                 experience buffering. Please check the video resolution. The current resolution is
-                (1092x728), which is not optimal." I'm also seeing a very significant delay, which
+                (1092x728), which is not optimal." The in room projector is a Panasonic PT-DW6300
+                with a resolution of "WXGA 1280 X 800", so they are not far off. I haven't figured
+                out what my Samsung Galixy S5 put out, but my Motorola Moto Z Play can output 1280 x
+                720 (720p), 1920 x 1080 (1080p) or 3840 x 2160 (2160p). Both are 16 MP cameras, but
+                the Samsung seemed to look better. DroidCam under Linuz can handle 320×240, 480×360,
+                640×480, 960×720 or 1280×720 but not sure what Win10 does yet. The end resulting
+                video seems to be 1280x720@30 fps. I'm also seeing a very significant delay, which
                 is going to be another wrinkle, but again, moving on to see what's next. We can
                 optimize later. At least I can see myself, sort of live, on the "watch page" and I
                 can share that URL multiple ways.</para>

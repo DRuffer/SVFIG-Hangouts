@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project version="18.1">
+<project version="20.0">
     <meta>
         <filters directoryPatterns="" filePatterns="SVFIG-Hangouts.xpr" positiveFilePatterns="" showHiddenFiles="false"/>
         <options>
-            <serialized version="18.1" xml:space="preserve">
-                <map/>
+            <serialized version="20.0" xml:space="preserve">
+                <serializableOrderedMap>
+                    <entry>
+                        <String>enable.project.master.files.support</String>
+                        <Boolean>true</Boolean>
+                    </entry>
+                </serializableOrderedMap>
             </serialized>
         </options>
     </meta>
     <projectTree name="SVFIG-Hangouts.xpr">
+        <folder masterFiles="true" name="Master Files">
+            <file name="SVFIG%20Hangouts.xml"/>
+        </folder>
         <folder path="."/>
     </projectTree>
 </project>
